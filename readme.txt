@@ -1,2 +1,2 @@
 git is a distrubute  controller system,
-git is a free  and useful and powerful soft.
+git is a free  and useful and powerful software destribute under GPL..
